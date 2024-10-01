@@ -11,7 +11,7 @@ purpose: "Dada2 pipeline to process pits data for Claire's project. This is the 
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Load Libraries
+# Load Libraries
 
 ```{r}
 library(dada2); packageVersion("dada2") # the dada2 pipeline
@@ -30,20 +30,20 @@ library(plotly); packageVersion("plotly") # enables creation of interactive grap
 ## [1] '4.10.1'
 ```
 
-## Set up pathway to idemp (demultiplexing tool) and test
+# Set up pathway to idemp (demultiplexing tool) and test
 
 ```{r}
 idemp <- "/usr/bin/idemp" # CHANGE ME if not on microbe
 system2(idemp) # Check that idemp is in your path and you can run shell commands from R
 ```
 
-## Set up pathway to cutadapt (primer trimming tool) and test
+# Set up pathway to cutadapt (primer trimming tool) and test
 ```{r}
 cutadapt <- "/usr/local/Python27/bin/cutadapt" # CHANGE ME if not on microbe
 system2(cutadapt, args = "--version") # Check by running shell command from R
 ```
 
-## Set path to shared data folder and contents
+# Set path to shared data folder and contents
 ```{r}
 # The data is located in the shared folder: /data/shared/MiSeq/10.03.2022_Mixed_16s_Run with primer plate #1 for 16S barcodes
 
@@ -71,7 +71,7 @@ filter.fp <- file.path(project.fp, "02_filter")
 table.fp <- file.path(project.fp, "03_tabletax") 
 ```
 
-## Demultiplexing
+# Demultiplexing
 ```{r}
 flags <- paste("-b", barcode.fp, "-I1", I1.fp, "-R1", R1.fp, "-R2", R2.fp, "-o", demultiplex.fp) 
 system2(idemp, args = flags) 
@@ -101,7 +101,7 @@ file.rename(list.files(demultiplex.fp, pattern="R2", full.names = TRUE),
 ##  check that they all say TRUE = yes
 ```
 
-## Prepare for Filtering
+# Prepare for Filtering
 ```{r}
 # Get full paths for all files and save them for downstream analyses
 # Forward and reverse fastq filenames have format: 
@@ -153,7 +153,7 @@ rbind(FWD.ForwardReads = sapply(FWD.orients, primerHits, fn = fnFs.filtN[[1]]),
       FWD.ReverseReads = sapply(FWD.orients, primerHits, fn = fnRs.filtN[[1]]), 
       REV.ForwardReads = sapply(REV.orients, primerHits, fn = fnFs.filtN[[1]]), 
       REV.ReverseReads = sapply(REV.orients, primerHits, fn = fnRs.filtN[[1]]))
-##                Forward Complement Reverse RevComp
+#                 Forward Complement Reverse RevComp
 # FWD.ForwardReads       0          0       0       0
 # FWD.ReverseReads       0          0       0     222
 # REV.ForwardReads       0          0       0     247
@@ -170,7 +170,7 @@ REV.RC <- dada2:::rc(REV)
 
 ```
 
-##  Create the cutadapt flags ##
+#  Create the cutadapt flags ##
 ```{r}
 # Trim FWD and the reverse-complement of REV off of R1 (forward reads)
 R1.flags <- paste("-g", FWD, "-a", REV.RC, "--minimum-length 50") 
@@ -200,7 +200,7 @@ rbind(FWD.ForwardReads = sapply(FWD.orients, primerHits, fn = fnFs.cut[[1]]),
 ```
 
 
-## Dada2 Pipeline
+# Dada2 Pipeline
 ```{r}
 # Put filtered reads into separate sub-directories for big data workflow
 dir.create(filter.fp)
@@ -228,7 +228,7 @@ if(length(fastqFs) != length(fastqRs)) stop("Forward and reverse files do not ma
 
 ```
 
-## Filter and Trim for Quality
+# Filter and Trim for Quality
 ```{r}
 # Inspect Plots
 # If the number of samples is 20 or less, plot them all, otherwise, just plot 20 randomly selected samples
@@ -306,7 +306,7 @@ ggsave(plot = rev_qual_plots_filt, filename = paste0(filter.fp, "/rev_qual_plots
 ```
 
 
-## Infer sequence variants
+# Infer sequence variants
 ```{r}
 # Housekeeping step - set up and verify the file names for the output:
 # File parsing
@@ -353,7 +353,7 @@ ggsave(plot = errR_plot, filename = paste0(filtpathR, "/errR_plot.png"),
 ```
 
 
-## Dereplication, sequence inference, and merging of paired-end reads
+# Dereplication, sequence inference, and merging of paired-end reads
 ```{r}
 # For pits, I chose to not pool the data for estimating the ASVs. This is ok for simple communities or when you do not need high sensitivity for rare taxa. I think this is ok because I am working with soils and my analyses are not going to be very complex. 
 
@@ -404,7 +404,7 @@ seqtab.nochim <- removeBimeraDenovo(st.all, method="consensus", multithread=TRUE
 ## 99.163%
 ```
 
-## Assign taxonomy
+# Assign taxonomy
 ```{r}
 tax <- assignTaxonomy(seqtab.nochim, "/db_files/dada2/silva_nr99_v138.1_train_set.fa", tryRC = TRUE, multithread=TRUE)
 
@@ -465,7 +465,7 @@ seqtab_wTax <- merge(seqtab.t, taxonomy_for_mctoolsr, by = 0)
 seqtab_wTax$ASV <- NULL 
 ```
 
-## Set name of table in mctoolsr format and save
+# Set name of table in mctoolsr format and save
 ```{r}
 # This is no longer needed when using phyloseq for downstream analyses
 
@@ -476,7 +476,7 @@ suppressWarnings(write.table(seqtab_wTax, out_fp, sep = "\t", row.names = FALSE,
 ```
 
 
-## Also export files as .txt
+# Also export files as .txt
 ```{r}
 write.table(seqtab.t, file = paste0(table.fp, "/seqtab_final.txt"),
             sep = "\t", row.names = TRUE, col.names = NA)
@@ -484,7 +484,7 @@ write.table(tax, file = paste0(table.fp, "/tax_final.txt"),
             sep = "\t", row.names = TRUE, col.names = NA)
 ```
 
-## Summary of reads through the pipeline
+# Summary of reads through the pipeline
 ```{r}
 getN <- function(x) sum(getUniques(x)) # function to grab sequence counts from output objects
 # tracking reads by counts
