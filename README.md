@@ -15,14 +15,17 @@ In publishing this repository, our hope is that this code is useful to other mem
 3. Download and install RStudio for your operating system.
 4. Download a zip file of this repository and decompress it in a directory of your choosing on your computer.
 5. Navigate to the directory and open the Rstudio Project file to load this project's files.
-6. Open the script(s) you would like to run. Scripts are numbered in the order they should be executed e.g, 01, 02, 03. Duplicate numbers mean those scripts can be run in any order relative to each other. We recommend beginning on script TBD
+6. Open the script(s) you would like to run. Scripts are numbered in the order they should be executed e.g, 01, 02, 03. You do not have to start with dada2 script (01.processing_bioinformatics.Rmd) or the phyloseq script (02.pits16Sphyloseq_1.10.22.R). The resulting file is included as "pits_processed_filt_ps.rds" so that you can used them in the data analysis scripts (03-05 instead). 
 7. Ensure that you have all of the required libraries installed by inspecting the Setup chunks. In these scripts, we note the CRAN/GitHub version/release that was used. If any libraries fail to install, note the name of the library and attempt to manually install its most recent version via CRAN or GitHub.
-8. To generate an HTML report, select File --> Knit from the menu.
 
 
 # Scripts
-- 'TBD'
+- 01.processing_bioinformatics.Rmd
+- 02.pits16Sphyloseq_1.10.22.R
+- 03.soilProperties.R
+- 04.biochar_indepth.R
+- 05.healthy_degraded_comparison.R
 
-
-# Folders
-- 'data' 
+# Output/Input
+- pits_processed_filt_ps.rds
+- qPCR_mass_extracted.csv
