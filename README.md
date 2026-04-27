@@ -7,7 +7,7 @@ This repository contains all code for bioinformatic analysis for the manuscript,
 
 In publishing this repository, our hope is that this code is useful to other members of the scientific community. This repository is released under a Creative Commons BY (CC-BY) license, which means that all code published here can be shared and adapted for any purposes so long as appropriate credit and citation of the original paper is given.
 
-There are four files associated with environmental data and plant data for this work. The filenames all start with 'plant_' and they include metadata, plant biomass data, plant density data, and soil moisture data. 
+There are four files associated with environmental data and plant data for this work. Three of the filenames start with 'plant_' and they include metadata, plant biomass data, plant density data, and soil moisture data. 
 
 
 # How do I run this code?
