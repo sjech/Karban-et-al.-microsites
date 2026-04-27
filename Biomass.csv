@@ -1,0 +1,237 @@
+Pit,Species,seed_trt,pit_trt,total_g,g_m2,status,func_group
+1,DESO,not seeded,pit,0.1757,4.3925,Weedy/non-native species,non-native forb
+1,SATR,not seeded,pit,0.0781,1.9525,Weedy/non-native species,non-native forb
+2,SATR,bare seeds,pit,0.0081,0.2025,Weedy/non-native species,non-native forb
+3,SATR,not seeded,pit + biochar,0.1338,3.345,Weedy/non-native species,non-native forb
+3,SPCR,not seeded,pit + biochar,0.0108,0.27,Native seeded species,C4 grass
+4,NA,bare seeds,control,0,0,NA,NA
+5,ACHY,bare seeds,pit + biochar,0.0448,1.12,Native seeded species,C3 grass
+5,PLJA,bare seeds,pit + biochar,0.0186,0.465,Native seeded species,C4 grass
+5,SATR,bare seeds,pit + biochar,0.3033,7.5825,Weedy/non-native species,non-native forb
+6,NA,bare seeds,control,0,0,NA,NA
+7,SATR,seed pellet,control,0.0109,0.2725,Weedy/non-native species,non-native forb
+8,SATR,seed pellet,control,0.0192,0.48,Weedy/non-native species,non-native forb
+9,SATR,not seeded,control,0.0074,0.185,Weedy/non-native species,non-native forb
+10,SATR,seed pellet,pit,0.059,1.475,Weedy/non-native species,non-native forb
+11,ACHY,seed pellet,pit + biochar,0.0208,0.52,Native seeded species,C3 grass
+11,PLJA,seed pellet,pit + biochar,0.0247,0.6175,Native seeded species,C4 grass
+11,SATR,seed pellet,pit + biochar,0.032,0.8,Weedy/non-native species,non-native forb
+12,SATR,not seeded,control,0.0017,0.0425,Weedy/non-native species,non-native forb
+13,ACHY,bare seeds,pit + biochar,0.0257,0.6425,Native seeded species,C3 grass
+13,PLJA,bare seeds,pit + biochar,0.2145,5.3625,Native seeded species,C4 grass
+13,SATR,bare seeds,pit + biochar,0.0279,0.6975,Weedy/non-native species,non-native forb
+13,SPCR,bare seeds,pit + biochar,0.4971,12.4275,Native seeded species,C4 grass
+14,NA,bare seeds,control,0,0,NA,NA
+15,SATR,bare seeds,control,0.0058,0.145,Weedy/non-native species,non-native forb
+16,SATR,not seeded,pit,0.0305,0.7625,Weedy/non-native species,non-native forb
+17,ACHY,bare seeds,pit,0.0083,0.2075,Native seeded species,C3 grass
+17,SATR,bare seeds,pit,0.0995,2.4875,Weedy/non-native species,non-native forb
+18,SATR,not seeded,control,0.0412,1.03,Weedy/non-native species,non-native forb
+19,SATR,seed pellet,pit,0.0435,1.0875,Weedy/non-native species,non-native forb
+20,SATR,not seeded,pit + biochar,0.021,0.525,Weedy/non-native species,non-native forb
+21,NA,seed pellet,control,0,0,NA,NA
+22,SATR,not seeded,control,0.0351,0.8775,Weedy/non-native species,non-native forb
+23,ACHY,seed pellet,pit,0.0063,0.1575,Native seeded species,C3 grass
+23,PLJA,seed pellet,pit,0.0906,2.265,Native seeded species,C4 grass
+23,SATR,seed pellet,pit,0.1283,3.2075,Weedy/non-native species,non-native forb
+24,SATR,seed pellet,control,0.0153,0.3825,Weedy/non-native species,non-native forb
+25,ACHY,bare seeds,pit,0.0112,0.28,Native seeded species,C3 grass
+25,SATR,bare seeds,pit,0.3385,8.4625,Weedy/non-native species,non-native forb
+26,PLJA,bare seeds,pit + biochar,0.044,1.1,Native seeded species,C4 grass
+26,SATR,bare seeds,pit + biochar,3.1985,79.9625,Weedy/non-native species,non-native forb
+26,SPCR,bare seeds,pit + biochar,0.0887,2.2175,Native seeded species,C4 grass
+27,SATR,seed pellet,control,0.0442,1.105,Weedy/non-native species,non-native forb
+28,SATR,not seeded,pit + biochar,0.0996,2.49,Weedy/non-native species,non-native forb
+29,PLJA,seed pellet,pit,0.0108,0.27,Native seeded species,C4 grass
+29,SATR,seed pellet,pit,0.1182,2.955,Weedy/non-native species,non-native forb
+30,LAOC,seed pellet,pit + biochar,0.0285,0.7125,Weedy/non-native species,non-native forb
+30,PLJA,seed pellet,pit + biochar,0.017,0.425,Native seeded species,C4 grass
+30,SATR,seed pellet,pit + biochar,1.1283,28.2075,Weedy/non-native species,non-native forb
+31,SATR,not seeded,pit,0.0126,0.315,Weedy/non-native species,non-native forb
+32,NA,not seeded,control,0,0,NA,NA
+33,NA,seed pellet,control,0,0,NA,NA
+34,NA,not seeded,control,0,0,NA,NA
+35,SATR,bare seeds,control,0.0033,0.0825,Weedy/non-native species,non-native forb
+36,NA,bare seeds,control,0,0,NA,NA
+37,SATR,not seeded,control,0.0952,2.38,Weedy/non-native species,non-native forb
+38,SATR,bare seeds,control,0.0334,0.835,Weedy/non-native species,non-native forb
+39,SATR,seed pellet,control,0.0019,0.0475,Weedy/non-native species,non-native forb
+40,SATR,not seeded,pit,3.6092,90.23,Weedy/non-native species,non-native forb
+41,SATR,seed pellet,pit + biochar,0.0946,2.365,Weedy/non-native species,non-native forb
+41,SPCR,seed pellet,pit + biochar,0.0144,0.36,Native seeded species,C4 grass
+42,SATR,bare seeds,control,0.0163,0.4075,Weedy/non-native species,non-native forb
+43,SATR,not seeded,pit + biochar,0.2727,6.8175,Weedy/non-native species,non-native forb
+44,ACHY,seed pellet,pit,0.0207,0.5175,Native seeded species,C3 grass
+44,SATR,seed pellet,pit,0.1564,3.91,Weedy/non-native species,non-native forb
+45,SATR,not seeded,control,0.0241,0.6025,Weedy/non-native species,non-native forb
+46,SATR,seed pellet,control,0.008,0.2,Weedy/non-native species,non-native forb
+47,SATR,bare seeds,pit,0.0381,0.9525,Weedy/non-native species,non-native forb
+48,SATR,bare seeds,pit + biochar,0.1153,2.8825,Weedy/non-native species,non-native forb
+49,SATR,bare seeds,pit,0.0708,1.77,Weedy/non-native species,non-native forb
+49,SPCR,bare seeds,pit,0.0189,0.4725,Native seeded species,C4 grass
+50,NA,seed pellet,control,0,0,NA,NA
+51,LAOC,bare seeds,pit,0.0216,0.54,Weedy/non-native species,non-native forb
+51,PLJA,bare seeds,pit,0.0136,0.34,Native seeded species,C4 grass
+51,SATR,bare seeds,pit,0.0231,0.5775,Weedy/non-native species,non-native forb
+52,SATR,seed pellet,pit,0.0156,0.39,Weedy/non-native species,non-native forb
+53,NA,seed pellet,control,0,0,NA,NA
+54,SATR,not seeded,pit + biochar,0.5173,12.9325,Weedy/non-native species,non-native forb
+55,NA,not seeded,control,0,0,NA,NA
+56,SATR,not seeded,control,0.0045,0.1125,Weedy/non-native species,non-native forb
+57,SATR,seed pellet,pit,0.0441,1.1025,Weedy/non-native species,non-native forb
+58,SATR,bare seeds,control,0.0388,0.97,Weedy/non-native species,non-native forb
+59,SATR,not seeded,pit,0.1272,3.18,Weedy/non-native species,non-native forb
+60,SATR,bare seeds,control,0.0576,1.44,Weedy/non-native species,non-native forb
+61,ACHY,seed pellet,pit,0.0108,0.27,Native seeded species,C3 grass
+61,PLJA,seed pellet,pit,0.0171,0.4275,Native seeded species,C4 grass
+61,SATR,seed pellet,pit,0.0882,2.205,Weedy/non-native species,non-native forb
+62,SATR,seed pellet,control,0.0166,0.415,Weedy/non-native species,non-native forb
+63,SATR,seed pellet,pit + biochar,1.1153,27.8825,Weedy/non-native species,non-native forb
+63,SPCR,seed pellet,pit + biochar,0.0109,0.2725,Native seeded species,C4 grass
+63,SPGR,seed pellet,pit + biochar,0.2798,6.995,Native seeded species,forb
+64,SATR,bare seeds,control,0.017,0.425,Weedy/non-native species,non-native forb
+65,SATR,not seeded,control,0.0707,1.7675,Weedy/non-native species,non-native forb
+66,ACHY,bare seeds,pit,0.0037,0.0925,Native seeded species,C3 grass
+66,PLJA,bare seeds,pit,0.0234,0.585,Native seeded species,C4 grass
+66,SATR,bare seeds,pit,0.0689,1.7225,Weedy/non-native species,non-native forb
+67,SATR,not seeded,control,0.0145,0.3625,Weedy/non-native species,non-native forb
+68,SATR,seed pellet,control,0.0074,0.185,Weedy/non-native species,non-native forb
+69,PLJA,not seeded,pit,0.015,0.375,Native seeded species,C4 grass
+69,SATR,not seeded,pit,0.366,9.15,Weedy/non-native species,non-native forb
+70,SATR,not seeded,pit,0.3165,7.9125,Weedy/non-native species,non-native forb
+71,NA,bare seeds,control,0,0,NA,NA
+72,ACHY,bare seeds,pit,0.0028,0.07,Native seeded species,C3 grass
+72,PLJA,bare seeds,pit,0.0104,0.26,Native seeded species,C4 grass
+72,SATR,bare seeds,pit,0.0976,2.44,Weedy/non-native species,non-native forb
+73,SATR,bare seeds,control,0.0389,0.9725,Weedy/non-native species,non-native forb
+74,ACHY,bare seeds,pit + biochar,0.0081,0.2025,Native seeded species,C3 grass
+74,SATR,bare seeds,pit + biochar,1.3678,34.195,Weedy/non-native species,non-native forb
+75,ACHY,bare seeds,pit,0.0047,0.1175,Native seeded species,C3 grass
+75,PLJA,bare seeds,pit,0.012,0.3,Native seeded species,C4 grass
+75,SATR,bare seeds,pit,0.4636,11.59,Weedy/non-native species,non-native forb
+76,SATR,not seeded,control,1.4066,35.165,Weedy/non-native species,non-native forb
+77,ATCA,seed pellet,control,0.0405,1.0125,Weedy/non-native species,shrub
+77,PLJA,seed pellet,control,0.0063,0.1575,Native seeded species,C4 grass
+77,SATR,seed pellet,control,0.1857,4.6425,Weedy/non-native species,non-native forb
+78,SATR,seed pellet,pit + biochar,0.0233,0.5825,Weedy/non-native species,non-native forb
+79,NA,bare seeds,control,0,0,NA,NA
+80,SATR,not seeded,control,0.0042,0.105,Weedy/non-native species,non-native forb
+81,SATR,seed pellet,pit,2.0695,51.7375,Weedy/non-native species,non-native forb
+82,SATR,not seeded,pit,1.0741,26.8525,Weedy/non-native species,non-native forb
+83,SATR,seed pellet,control,0.011,0.275,Weedy/non-native species,non-native forb
+84,LAOC,not seeded,pit,0.0155,0.3875,Weedy/non-native species,non-native forb
+84,SATR,not seeded,pit,0.0472,1.18,Weedy/non-native species,non-native forb
+85,CLLU,not seeded,pit,0.0118,0.295,Native seeded species,forb
+85,SATR,not seeded,pit,0.1138,2.845,Weedy/non-native species,non-native forb
+86,SATR,not seeded,control,0.0132,0.33,Weedy/non-native species,non-native forb
+87,SATR,seed pellet,control,0.2521,6.3025,Weedy/non-native species,non-native forb
+88,SATR,seed pellet,pit,0.5473,13.6825,Weedy/non-native species,non-native forb
+89,SATR,bare seeds,control,0.0073,0.1825,Weedy/non-native species,non-native forb
+90,ACHY,bare seeds,pit,0.0227,0.5675,Native seeded species,C3 grass
+91,SATR,not seeded,pit,0.2437,6.0925,Weedy/non-native species,non-native forb
+92,ACHY,seed pellet,pit,0.0551,1.3775,Native seeded species,C3 grass
+92,SATR,seed pellet,pit,0.3183,7.9575,Weedy/non-native species,non-native forb
+93,NA,bare seeds,control,0,0,NA,NA
+94,SATR,not seeded,control,0.009,0.225,Weedy/non-native species,non-native forb
+95,NA,seed pellet,control,0,0,NA,NA
+96,ACHY,bare seeds,pit,0.0106,0.265,Native seeded species,C3 grass
+96,PLJA,bare seeds,pit,0.0226,0.565,Native seeded species,C4 grass
+96,SATR,bare seeds,pit,0.8333,20.8325,Weedy/non-native species,non-native forb
+97,NA,bare seeds,control,0,0,NA,NA
+98,SATR,not seeded,pit + biochar,1.192,29.8,Weedy/non-native species,non-native forb
+99,SATR,bare seeds,control,0.0275,0.6875,Weedy/non-native species,non-native forb
+100,SATR,seed pellet,control,0.0523,1.3075,Weedy/non-native species,non-native forb
+101,NA,not seeded,control,0,0,NA,NA
+102,SATR,not seeded,control,0.0177,0.4425,Weedy/non-native species,non-native forb
+103,ACHY,seed pellet,pit,0.0424,1.06,Native seeded species,C3 grass
+103,PLJA,seed pellet,pit,0.0653,1.6325,Native seeded species,C4 grass
+103,SATR,seed pellet,pit,1.3925,34.8125,Weedy/non-native species,non-native forb
+104,PLJA,not seeded,pit,0.0137,0.3425,Native seeded species,C4 grass
+104,SATR,not seeded,pit,0.5634,14.085,Weedy/non-native species,non-native forb
+105,SATR,seed pellet,control,0.0139,0.3475,Weedy/non-native species,non-native forb
+106,SATR,not seeded,pit,0.5298,13.245,Weedy/non-native species,non-native forb
+107,ACHY,seed pellet,pit + biochar,0.0141,0.3525,Native seeded species,C3 grass
+107,LAOC,seed pellet,pit + biochar,0.0371,0.9275,Weedy/non-native species,non-native forb
+107,SATR,seed pellet,pit + biochar,0.0725,1.8125,Weedy/non-native species,non-native forb
+108,ACHY,bare seeds,pit,0.0169,0.4225,Native seeded species,C3 grass
+108,SATR,bare seeds,pit,0.1973,4.9325,Weedy/non-native species,non-native forb
+109,SATR,not seeded,pit + biochar,0.0638,1.595,Weedy/non-native species,non-native forb
+110,SATR,not seeded,control,0.0133,0.3325,Weedy/non-native species,non-native forb
+111,ACHY,seed pellet,pit,0.011,0.275,Native seeded species,C3 grass
+111,SATR,seed pellet,pit,0.1905,4.7625,Weedy/non-native species,non-native forb
+112,SATR,bare seeds,control,0.0103,0.2575,Weedy/non-native species,non-native forb
+113,SATR,seed pellet,control,0.004,0.1,Weedy/non-native species,non-native forb
+114,SATR,seed pellet,control,0.0254,0.635,Weedy/non-native species,non-native forb
+115,SATR,bare seeds,control,0.0511,1.2775,Weedy/non-native species,non-native forb
+116,ACHY,bare seeds,pit + biochar,0.011,0.275,Native seeded species,C3 grass
+116,SATR,bare seeds,pit + biochar,0.0449,1.1225,Weedy/non-native species,non-native forb
+117,ACHY,bare seeds,pit,0.0123,0.3075,Native seeded species,C3 grass
+117,PLJA,bare seeds,pit,0.0127,0.3175,Native seeded species,C4 grass
+117,SATR,bare seeds,pit,0.0984,2.46,Weedy/non-native species,non-native forb
+118,ACHY,seed pellet,pit + biochar,0.0048,0.12,Native seeded species,C3 grass
+118,SATR,seed pellet,pit + biochar,0.1045,2.6125,Weedy/non-native species,non-native forb
+119,SATR,not seeded,control,0.0142,0.355,Weedy/non-native species,non-native forb
+120,ACHY,not seeded,pit,0.0026,0.065,Native seeded species,C3 grass
+120,SATR,not seeded,pit,0.1014,2.535,Weedy/non-native species,non-native forb
+121,SATR,bare seeds,pit,0.4214,10.535,Weedy/non-native species,non-native forb
+121,SPCR,bare seeds,pit,0.0369,0.9225,Native seeded species,C4 grass
+122,SATR,seed pellet,pit + biochar,0.1172,2.93,Weedy/non-native species,non-native forb
+122,SPCR,seed pellet,pit + biochar,0.0547,1.3675,Native seeded species,C4 grass
+123,SATR,not seeded,pit + biochar,0.1975,4.9375,Weedy/non-native species,non-native forb
+124,SATR,bare seeds,pit + biochar,0.1952,4.88,Weedy/non-native species,non-native forb
+124,SPCR,bare seeds,pit + biochar,0.032,0.8,Native seeded species,C4 grass
+125,SATR,not seeded,pit,0.2653,6.6325,Weedy/non-native species,non-native forb
+126,ACHY,seed pellet,pit,0.0024,0.06,Native seeded species,C3 grass
+126,SATR,seed pellet,pit,0.0897,2.2425,Weedy/non-native species,non-native forb
+127,PLJA,seed pellet,pit,0.0243,0.6075,Native seeded species,C4 grass
+127,SATR,seed pellet,pit,0.1129,2.8225,Weedy/non-native species,non-native forb
+128,SATR,not seeded,pit,0.0629,1.5725,Weedy/non-native species,non-native forb
+129,ACHY,bare seeds,pit + biochar,0.0345,0.8625,Native seeded species,C3 grass
+129,LAOC,bare seeds,pit + biochar,0.1466,3.665,Weedy/non-native species,non-native forb
+129,PLJA,bare seeds,pit + biochar,0.0291,0.7275,Native seeded species,C4 grass
+129,SPCR,bare seeds,pit + biochar,0.0126,0.315,Native seeded species,C4 grass
+130,ATCA,not seeded,pit,0.0085,0.2125,Weedy/non-native species,shrub
+130,SATR,not seeded,pit,0.2102,5.255,Weedy/non-native species,non-native forb
+131,ACHY,bare seeds,pit,0.0261,0.6525,Native seeded species,C3 grass
+131,PLJA,bare seeds,pit,0.0251,0.6275,Native seeded species,C4 grass
+131,SATR,bare seeds,pit,0.2501,6.2525,Weedy/non-native species,non-native forb
+132,CLLU,seed pellet,pit,0.0111,0.2775,Native seeded species,forb
+132,SATR,seed pellet,pit,0.0377,0.9425,Weedy/non-native species,non-native forb
+133,ACHY,seed pellet,pit,0.0078,0.195,Native seeded species,C3 grass
+133,PLJA,seed pellet,pit,0.0341,0.8525,Native seeded species,C4 grass
+133,SATR,seed pellet,pit,0.5051,12.6275,Weedy/non-native species,non-native forb
+134,ACHY,bare seeds,pit + biochar,0.0096,0.24,Native seeded species,C3 grass
+134,SATR,bare seeds,pit + biochar,0.6072,15.18,Weedy/non-native species,non-native forb
+134,SPCR,bare seeds,pit + biochar,0.0279,0.6975,Native seeded species,C4 grass
+135,ATCA,not seeded,pit,0.0173,0.4325,Weedy/non-native species,shrub
+135,SATR,not seeded,pit,0.2119,5.2975,Weedy/non-native species,non-native forb
+136,ATCA,not seeded,pit,0.0039,0.0975,Weedy/non-native species,shrub
+136,SATR,not seeded,pit,0.7465,18.6625,Weedy/non-native species,non-native forb
+137,SATR,bare seeds,pit,0.0025,0.0625,Weedy/non-native species,non-native forb
+138,ACHY,seed pellet,pit,0.009,0.225,Native seeded species,C3 grass
+138,SATR,seed pellet,pit,0.0814,2.035,Weedy/non-native species,non-native forb
+138,SPCR,seed pellet,pit,0.0189,0.4725,Native seeded species,C4 grass
+139,ACHY,bare seeds,pit,0.007,0.175,Native seeded species,C3 grass
+139,SATR,bare seeds,pit,0.0664,1.66,Weedy/non-native species,non-native forb
+140,LAOC,bare seeds,pit,0.0434,1.085,Weedy/non-native species,non-native forb
+140,PLJA,bare seeds,pit,0.1608,4.02,Native seeded species,C4 grass
+140,SATR,bare seeds,pit,0.2393,5.9825,Weedy/non-native species,non-native forb
+141,SATR,not seeded,pit,0.3167,7.9175,Weedy/non-native species,non-native forb
+142,SATR,seed pellet,pit,0.1113,2.7825,Weedy/non-native species,non-native forb
+143,ATCA,not seeded,pit + biochar,0.9222,23.055,Weedy/non-native species,shrub
+143,SATR,not seeded,pit + biochar,0.5322,13.305,Weedy/non-native species,non-native forb
+144,ACHY,seed pellet,pit + biochar,0.0196,0.49,Native seeded species,C3 grass
+144,PLJA,seed pellet,pit + biochar,0.1114,2.785,Native seeded species,C4 grass
+144,SATR,seed pellet,pit + biochar,0.2377,5.9425,Weedy/non-native species,non-native forb
+145,PLJA,seed pellet,pit,0.0685,1.7125,Native seeded species,C4 grass
+145,SATR,seed pellet,pit,0.1458,3.645,Weedy/non-native species,non-native forb
+146,SATR,not seeded,pit + biochar,0.4491,11.2275,Weedy/non-native species,non-native forb
+147,ACHY,bare seeds,pit + biochar,0.0143,0.3575,Native seeded species,C3 grass
+147,SATR,bare seeds,pit + biochar,0.2395,5.9875,Weedy/non-native species,non-native forb
+148,SATR,not seeded,pit,0.5223,13.0575,Weedy/non-native species,non-native forb
+149,ACHY,seed pellet,pit + biochar,0.0039,0.0975,Native seeded species,C3 grass
+149,SATR,seed pellet,pit + biochar,0.5123,12.8075,Weedy/non-native species,non-native forb
+149,SPCR,seed pellet,pit + biochar,0.2103,5.2575,Native seeded species,C4 grass
+150,ACHY,bare seeds,pit,0.0167,0.4175,Native seeded species,C3 grass
+150,PLJA,bare seeds,pit,0.0486,1.215,Native seeded species,C4 grass
+150,SATR,bare seeds,pit,0.4258,10.645,Weedy/non-native species,non-native forb

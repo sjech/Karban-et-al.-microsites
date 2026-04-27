@@ -1,0 +1,301 @@
+Pit,seed_trt,pit_trt,total_m2,seeded_m2,nonseeded_m2,season
+1,not seeded,pit,1850,0,1850,fall
+3,not seeded,pit + biochar,200,0,200,fall
+9,not seeded,control,200,0,200,fall
+12,not seeded,control,0,0,0,fall
+16,not seeded,pit,125,0,125,fall
+18,not seeded,control,0,0,0,fall
+20,not seeded,pit + biochar,250,0,250,fall
+22,not seeded,control,0,0,0,fall
+28,not seeded,pit + biochar,75,0,75,fall
+31,not seeded,pit,75,0,75,fall
+32,not seeded,control,0,0,0,fall
+34,not seeded,control,0,0,0,fall
+37,not seeded,control,0,0,0,fall
+40,not seeded,pit,725,0,725,fall
+43,not seeded,pit + biochar,275,0,275,fall
+45,not seeded,control,0,0,0,fall
+54,not seeded,pit + biochar,550,0,550,fall
+55,not seeded,control,0,0,0,fall
+56,not seeded,control,0,0,0,fall
+59,not seeded,pit,250,0,250,fall
+65,not seeded,control,0,0,0,fall
+67,not seeded,control,0,0,0,fall
+69,not seeded,pit,775,0,775,fall
+70,not seeded,pit,225,0,225,fall
+76,not seeded,control,2075,0,2075,fall
+80,not seeded,control,0,0,0,fall
+82,not seeded,pit,225,0,225,fall
+84,not seeded,pit,200,0,200,fall
+85,not seeded,pit,800,25,775,fall
+86,not seeded,control,0,0,0,fall
+91,not seeded,pit,250,0,250,fall
+94,not seeded,control,0,0,0,fall
+98,not seeded,pit + biochar,1775,0,1775,fall
+101,not seeded,control,0,0,0,fall
+102,not seeded,control,0,0,0,fall
+104,not seeded,pit,525,25,500,fall
+106,not seeded,pit,300,0,300,fall
+109,not seeded,pit + biochar,150,0,150,fall
+110,not seeded,control,0,0,0,fall
+119,not seeded,control,0,0,0,fall
+120,not seeded,pit,325,0,325,fall
+123,not seeded,pit + biochar,425,0,425,fall
+125,not seeded,pit,250,0,250,fall
+128,not seeded,pit,150,0,150,fall
+130,not seeded,pit,1225,0,1225,fall
+135,not seeded,pit,2775,0,2775,fall
+136,not seeded,pit,1350,0,1350,fall
+141,not seeded,pit,975,0,975,fall
+143,not seeded,pit + biochar,2225,0,2225,fall
+146,not seeded,pit + biochar,4525,0,4525,fall
+148,not seeded,pit,4450,25,4425,fall
+7,seed pellet,control,0,0,0,fall
+8,seed pellet,control,0,0,0,fall
+10,seed pellet,pit,150,0,150,fall
+11,seed pellet,pit + biochar,300,0,300,fall
+19,seed pellet,pit,175,0,175,fall
+21,seed pellet,control,0,0,0,fall
+23,seed pellet,pit,700,125,575,fall
+24,seed pellet,control,0,0,0,fall
+27,seed pellet,control,0,0,0,fall
+29,seed pellet,pit,275,50,225,fall
+30,seed pellet,pit + biochar,375,50,325,fall
+33,seed pellet,control,0,0,0,fall
+39,seed pellet,control,0,0,0,fall
+41,seed pellet,pit + biochar,150,0,150,fall
+44,seed pellet,pit,275,0,275,fall
+46,seed pellet,control,0,0,0,fall
+50,seed pellet,control,0,0,0,fall
+52,seed pellet,pit,200,25,175,fall
+53,seed pellet,control,0,0,0,fall
+57,seed pellet,pit,175,0,175,fall
+61,seed pellet,pit,300,0,300,fall
+62,seed pellet,control,0,0,0,fall
+63,seed pellet,pit + biochar,575,100,475,fall
+68,seed pellet,control,0,0,0,fall
+77,seed pellet,control,2400,0,2400,fall
+78,seed pellet,pit + biochar,250,0,250,fall
+81,seed pellet,pit,1550,100,1450,fall
+83,seed pellet,control,0,0,0,fall
+87,seed pellet,control,25,0,25,fall
+88,seed pellet,pit,3475,25,3450,fall
+92,seed pellet,pit,150,0,150,fall
+95,seed pellet,control,0,0,0,fall
+100,seed pellet,control,0,0,0,fall
+103,seed pellet,pit,1200,100,1100,fall
+105,seed pellet,control,0,0,0,fall
+107,seed pellet,pit + biochar,300,0,300,fall
+111,seed pellet,pit,500,25,475,fall
+113,seed pellet,control,0,0,0,fall
+114,seed pellet,control,0,0,0,fall
+118,seed pellet,pit + biochar,50,0,50,fall
+122,seed pellet,pit + biochar,300,50,250,fall
+126,seed pellet,pit,2025,50,1975,fall
+127,seed pellet,pit,325,50,275,fall
+132,seed pellet,pit,25,0,25,fall
+133,seed pellet,pit,3650,25,3625,fall
+138,seed pellet,pit,250,75,175,fall
+142,seed pellet,pit,450,25,425,fall
+144,seed pellet,pit + biochar,600,100,500,fall
+145,seed pellet,pit,450,50,400,fall
+149,seed pellet,pit + biochar,2225,125,2100,fall
+2,bare seeds,pit,150,0,150,fall
+4,bare seeds,control,0,0,0,fall
+5,bare seeds,pit + biochar,275,25,250,fall
+6,bare seeds,control,0,0,0,fall
+13,bare seeds,pit + biochar,1325,125,1200,fall
+14,bare seeds,control,0,0,0,fall
+15,bare seeds,control,50,0,50,fall
+17,bare seeds,pit,325,0,325,fall
+25,bare seeds,pit,300,0,300,fall
+26,bare seeds,pit + biochar,600,75,525,fall
+35,bare seeds,control,25,0,25,fall
+36,bare seeds,control,0,0,0,fall
+38,bare seeds,control,0,0,0,fall
+42,bare seeds,control,0,0,0,fall
+47,bare seeds,pit,275,0,275,fall
+48,bare seeds,pit + biochar,500,25,475,fall
+49,bare seeds,pit,575,25,550,fall
+51,bare seeds,pit,100,0,100,fall
+58,bare seeds,control,0,0,0,fall
+60,bare seeds,control,25,0,25,fall
+64,bare seeds,control,0,0,0,fall
+66,bare seeds,pit,325,25,300,fall
+71,bare seeds,control,0,0,0,fall
+72,bare seeds,pit,475,0,475,fall
+73,bare seeds,control,25,0,25,fall
+74,bare seeds,pit + biochar,400,25,375,fall
+75,bare seeds,pit,350,0,350,fall
+79,bare seeds,control,50,0,50,fall
+89,bare seeds,control,25,0,25,fall
+90,bare seeds,pit,175,25,150,fall
+93,bare seeds,control,0,0,0,fall
+96,bare seeds,pit,1000,50,950,fall
+97,bare seeds,control,0,0,0,fall
+99,bare seeds,control,100,0,100,fall
+108,bare seeds,pit,650,25,625,fall
+112,bare seeds,control,0,0,0,fall
+115,bare seeds,control,0,0,0,fall
+116,bare seeds,pit + biochar,675,0,675,fall
+117,bare seeds,pit,250,50,200,fall
+121,bare seeds,pit,425,75,350,fall
+124,bare seeds,pit + biochar,325,75,250,fall
+129,bare seeds,pit + biochar,1225,50,1175,fall
+131,bare seeds,pit,1000,50,950,fall
+134,bare seeds,pit + biochar,2525,175,2350,fall
+137,bare seeds,pit,875,0,875,fall
+139,bare seeds,pit,275,25,250,fall
+140,bare seeds,pit,850,100,750,fall
+147,bare seeds,pit + biochar,2500,25,2475,fall
+150,bare seeds,pit,1600,0,1600,fall
+1,not seeded,pit,225,0,225,spring
+2,bare seeds,pit,50,0,50,spring
+3,not seeded,pit + biochar,575,25,550,spring
+4,bare seeds,control,0,0,0,spring
+5,bare seeds,pit + biochar,1000,100,900,spring
+6,bare seeds,control,0,0,0,spring
+7,seed pellet,control,50,0,50,spring
+8,seed pellet,control,50,0,50,spring
+9,not seeded,control,50,0,50,spring
+10,seed pellet,pit,175,0,175,spring
+11,seed pellet,pit + biochar,225,75,150,spring
+12,not seeded,control,25,0,25,spring
+13,bare seeds,pit + biochar,375,225,150,spring
+14,bare seeds,control,0,0,0,spring
+15,bare seeds,control,25,0,25,spring
+16,not seeded,pit,100,0,100,spring
+17,bare seeds,pit,625,50,575,spring
+18,not seeded,control,50,0,50,spring
+19,seed pellet,pit,275,0,275,spring
+20,not seeded,pit + biochar,100,0,100,spring
+21,seed pellet,control,0,0,0,spring
+22,not seeded,control,75,0,75,spring
+23,seed pellet,pit,475,100,375,spring
+24,seed pellet,control,25,0,25,spring
+25,bare seeds,pit,1300,50,1250,spring
+26,bare seeds,pit + biochar,6250,100,6150,spring
+27,seed pellet,control,50,0,50,spring
+28,not seeded,pit + biochar,325,0,325,spring
+29,seed pellet,pit,675,25,650,spring
+30,seed pellet,pit + biochar,2600,25,2575,spring
+31,not seeded,pit,50,0,50,spring
+32,not seeded,control,0,0,0,spring
+33,seed pellet,control,0,0,0,spring
+34,not seeded,control,0,0,0,spring
+35,bare seeds,control,50,0,50,spring
+36,bare seeds,control,200,0,200,spring
+37,not seeded,control,225,0,225,spring
+38,bare seeds,control,100,0,100,spring
+39,seed pellet,control,25,0,25,spring
+40,not seeded,pit,10525,0,10525,spring
+41,seed pellet,pit + biochar,225,25,200,spring
+42,bare seeds,control,25,0,25,spring
+43,not seeded,pit + biochar,1525,0,1525,spring
+44,seed pellet,pit,900,50,850,spring
+45,not seeded,control,75,0,75,spring
+46,seed pellet,control,25,0,25,spring
+47,bare seeds,pit,50,0,50,spring
+48,bare seeds,pit + biochar,200,0,200,spring
+49,bare seeds,pit,425,75,350,spring
+50,seed pellet,control,0,0,0,spring
+51,bare seeds,pit,25,25,0,spring
+52,seed pellet,pit,50,0,50,spring
+53,seed pellet,control,0,0,0,spring
+54,not seeded,pit + biochar,2500,0,2500,spring
+55,not seeded,control,0,0,0,spring
+56,not seeded,control,25,0,25,spring
+57,seed pellet,pit,100,0,100,spring
+58,bare seeds,control,75,0,75,spring
+59,not seeded,pit,550,0,550,spring
+60,bare seeds,control,100,0,100,spring
+61,seed pellet,pit,500,50,450,spring
+62,seed pellet,control,25,0,25,spring
+63,seed pellet,pit + biochar,2675,50,2625,spring
+64,bare seeds,control,50,0,50,spring
+65,not seeded,control,175,0,175,spring
+66,bare seeds,pit,750,75,675,spring
+67,not seeded,control,50,0,50,spring
+68,seed pellet,control,50,0,50,spring
+69,not seeded,pit,975,0,975,spring
+70,not seeded,pit,850,0,850,spring
+71,bare seeds,control,0,0,0,spring
+72,bare seeds,pit,700,50,650,spring
+73,bare seeds,control,75,0,75,spring
+74,bare seeds,pit + biochar,3825,25,3800,spring
+75,bare seeds,pit,925,50,875,spring
+76,not seeded,control,3225,0,3225,spring
+77,seed pellet,control,300,25,275,spring
+78,seed pellet,pit + biochar,50,0,50,spring
+79,bare seeds,control,0,0,0,spring
+80,not seeded,control,50,0,50,spring
+81,seed pellet,pit,4700,0,4700,spring
+82,not seeded,pit,2750,0,2750,spring
+83,seed pellet,control,25,0,25,spring
+84,not seeded,pit,275,0,275,spring
+85,not seeded,pit,650,25,625,spring
+86,not seeded,control,25,0,25,spring
+87,seed pellet,control,600,0,600,spring
+88,seed pellet,pit,1625,0,1625,spring
+89,bare seeds,control,25,0,25,spring
+90,bare seeds,pit,25,25,0,spring
+91,not seeded,pit,575,0,575,spring
+92,seed pellet,pit,3225,75,3150,spring
+93,bare seeds,control,0,0,0,spring
+94,not seeded,control,50,0,50,spring
+95,seed pellet,control,0,0,0,spring
+96,bare seeds,pit,2950,50,2900,spring
+97,bare seeds,control,0,0,0,spring
+98,not seeded,pit + biochar,3375,0,3375,spring
+99,bare seeds,control,100,0,100,spring
+100,seed pellet,control,100,0,100,spring
+101,not seeded,control,0,0,0,spring
+102,not seeded,control,50,0,50,spring
+103,seed pellet,pit,4600,225,4375,spring
+104,not seeded,pit,1000,0,1000,spring
+105,seed pellet,control,25,0,25,spring
+106,not seeded,pit,1925,0,1925,spring
+107,seed pellet,pit + biochar,250,25,225,spring
+108,bare seeds,pit,750,50,700,spring
+109,not seeded,pit + biochar,275,0,275,spring
+110,not seeded,control,25,0,25,spring
+111,seed pellet,pit,675,25,650,spring
+112,bare seeds,control,25,0,25,spring
+113,seed pellet,control,25,0,25,spring
+114,seed pellet,control,50,0,50,spring
+115,bare seeds,control,125,0,125,spring
+116,bare seeds,pit + biochar,175,50,125,spring
+117,bare seeds,pit,300,75,225,spring
+118,seed pellet,pit + biochar,275,25,250,spring
+119,not seeded,control,25,0,25,spring
+120,not seeded,pit,375,25,350,spring
+121,bare seeds,pit,250,50,200,spring
+122,seed pellet,pit + biochar,325,75,250,spring
+123,not seeded,pit + biochar,800,0,800,spring
+124,bare seeds,pit + biochar,800,25,775,spring
+125,not seeded,pit,725,0,725,spring
+126,seed pellet,pit,200,25,175,spring
+127,seed pellet,pit,175,50,125,spring
+128,not seeded,pit,175,0,175,spring
+129,bare seeds,pit + biochar,3000,150,2850,spring
+130,not seeded,pit,775,0,775,spring
+131,bare seeds,pit,925,100,825,spring
+132,seed pellet,pit,125,25,100,spring
+133,seed pellet,pit,1675,50,1625,spring
+134,bare seeds,pit + biochar,1350,50,1300,spring
+135,not seeded,pit,750,0,750,spring
+136,not seeded,pit,2450,0,2450,spring
+137,bare seeds,pit,50,0,50,spring
+138,seed pellet,pit,275,75,200,spring
+139,bare seeds,pit,150,25,125,spring
+140,bare seeds,pit,825,50,775,spring
+141,not seeded,pit,575,0,575,spring
+142,seed pellet,pit,300,0,300,spring
+143,not seeded,pit + biochar,1175,0,1175,spring
+144,seed pellet,pit + biochar,650,150,500,spring
+145,seed pellet,pit,400,25,375,spring
+146,not seeded,pit + biochar,1625,0,1625,spring
+147,bare seeds,pit + biochar,775,75,700,spring
+148,not seeded,pit,925,0,925,spring
+149,seed pellet,pit + biochar,1425,200,1225,spring
+150,bare seeds,pit,2350,75,2275,spring
